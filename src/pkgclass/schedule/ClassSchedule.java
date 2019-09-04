@@ -29,9 +29,20 @@ public class ClassSchedule {
         String subject2 = "college alg&trig";
         String teacher1 = "zagales";
         String subject1 = "Hon ww2";
-       
+        String name = "Alejandro Felipe";
+        String grad = "2020";
         
-        
+        System.out.println("---------------------------------------------");
+        System.out.println(""+name+"");
+        System.out.println(""+grad+"");
+        System.out.println("---------------------------------------------");
+        System.out.println(""+ subject1 +"                   |   "+teacher1+"" );
+        System.out.println(""+ subject2 +"          |   "+teacher2+"" );
+        System.out.println(""+ subject3 +"         |   "+teacher3+"");
+        System.out.println(""+ subject4 +"                 |   "+teacher4+"");
+        System.out.println(""+subject5 +"                |   "+teacher5+"");
+        System.out.println(""+subject6+"                 |   "+teacher6+"");
+        System.out.println(""+subject7+"           |   "+teacher7+"");
     }
     
 }
